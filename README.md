@@ -22,4 +22,4 @@ Understanding how temperature affects musical instruments can help musicians bet
 * Key concepts: Signal processing, statistical analysis, physics of sound
 
 
-This project was developed as part of Science One at UBC.
+_This project was developed as part of Science One at UBC._
